@@ -39,17 +39,21 @@ I'm a tech enthusiast and developer based at **NIT, Kurukshetra**, passionate ab
 
 ---
 
-## GitHub Stats
+## Featured Repositories
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ng196&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ng196&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ng196&theme=tokyonight&hide_border=true&layout=compact)
+| Repository | Description | Stars | Language |
+|------------|-------------|-------|----------|
+| [**SIH-2025**](https://github.com/ng196/SIH-2025) | Smart India Hackathon 2025 project | 1 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) |
+| [**DSA**](https://github.com/ng196/DSA) | Data Structures & Algorithms | 0 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) |
 
 ---
 
-## Activity Graph
+## View Profile
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ng196&theme=tokyo&hide_border=true&custom_title=Contribution%20Graph)
+- [LinkedIn](https://www.linkedin.com/in/nitin-goyal-506b1156/) - Please confirm if this is your profile
+- [Instagram](https://www.instagram.com/nitin.206/)
+- [X (Twitter)](https://x.com/nitsgoyal) - Please confirm if this is your profile
+- LeetCode - Please provide your LeetCode profile URL
 
 ---
 
