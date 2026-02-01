@@ -9,7 +9,6 @@
 
 I'm a tech enthusiast and developer based at **NIT, Kurukshetra**, passionate about building innovative solutions and exploring cutting-edge technologies.
 
-- Working at **ngworks**
 - Exploring AI, automation, and productivity tools
 - Learning DSA, Backend, and full-stack development
 - Always curious about new tech
