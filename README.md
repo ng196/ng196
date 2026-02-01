@@ -39,18 +39,9 @@ I'm a tech enthusiast and developer based at **NIT, Kurukshetra**, passionate ab
 
 ---
 
-## Featured Repositories
-
-| Repository | Description | Stars | Language |
-|------------|-------------|-------|----------|
-| [**SIH-2025**](https://github.com/ng196/SIH-2025) | Smart India Hackathon 2025 project | 1 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) |
-| [**DSA**](https://github.com/ng196/DSA) | Data Structures & Algorithms | 0 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) |
-
----
-
 ## View Profile
 
-- [LinkedIn](https://www.linkedin.com/in/nitin-goyal-867746306/)
+- [LinkedIn](https://linkedin.com/in/nitin-goyal-867746306)
 - [Instagram](https://www.instagram.com/206.nitin/)
 - [LeetCode](https://leetcode.com/u/Ng196/)
 
