@@ -52,7 +52,7 @@ I'm a tech enthusiast and developer based at **NIT, Kurukshetra**, passionate ab
 
 - [LinkedIn](https://www.linkedin.com/in/nitin-goyal-867746306/)
 - [Instagram](https://www.instagram.com/206.nitin/)
-- LeetCode - Please provide your LeetCode profile URL
+- [LeetCode](https://leetcode.com/u/Ng196/)
 
 ---
 
