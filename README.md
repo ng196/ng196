@@ -38,10 +38,6 @@ I'm a tech enthusiast and developer based at **NIT, Kurukshetra**, passionate ab
 | Repository | Description | Stars | Language |
 |------------|-------------|-------|----------|
 | [**SIH-2025**](https://github.com/ng196/SIH-2025) | Smart India Hackathon 2025 project | ![Stars](https://img.shields.io/badge/★-1-yellow?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) |
-| [**saksham**](https://github.com/ng196/saksham) | Demo project | ![Stars](https://img.shields.io/badge/★-1-yellow?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) |
-| [**omnidesk**](https://github.com/ng196/omnidesk) | Omnidesk application | ![Stars](https://img.shields.io/badge/★-1-yellow?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) |
-| [**startupcellweb**](https://github.com/ng196/startupcellweb) | Official Website of Start-Up Cell | ![Stars](https://img.shields.io/badge/★-1-yellow?style=flat-square) | - |
-| [**openclaw**](https://github.com/ng196/openclaw) | OpenClaw configuration backup | ![Stars](https://img.shields.io/badge/★-0-yellow?style=flat-square) | - |
 | [**DSA**](https://github.com/ng196/DSA) | Data Structures & Algorithms | ![Stars](https://img.shields.io/badge/★-0-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) |
 
 ---
@@ -65,20 +61,6 @@ I'm a tech enthusiast and developer based at **NIT, Kurukshetra**, passionate ab
 - 📧 Email: [nitingoyal9696@gmail.com](mailto:nitingoyal9696@gmail.com)
 - 🔗 GitHub: [ng196](https://github.com/ng196)
 - 🏫 Location: NIT, Kurukshetra, India
-
----
-
-## 📝 Pinned Repositories (Setup Instructions)
-
-To pin repositories to your GitHub profile:
-
-1. Go to your profile: https://github.com/ng196
-2. Click "Customize your pins"
-3. Select up to 6 repositories to showcase
-4. Drag to reorder them
-5. Click "Save pins"
-
-Recommended to pin: `SIH-2025`, `openclaw`, `DSA`, `omnidesk`, `startupcellweb`, `saksham`
 
 ---
 
