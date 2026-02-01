@@ -50,9 +50,8 @@ I'm a tech enthusiast and developer based at **NIT, Kurukshetra**, passionate ab
 
 ## View Profile
 
-- [LinkedIn](https://www.linkedin.com/in/nitin-goyal-506b1156/) - Please confirm if this is your profile
-- [Instagram](https://www.instagram.com/nitin.206/)
-- [X (Twitter)](https://x.com/nitsgoyal) - Please confirm if this is your profile
+- [LinkedIn](https://www.linkedin.com/in/nitin-goyal-867746306/)
+- [Instagram](https://www.instagram.com/206.nitin/)
 - LeetCode - Please provide your LeetCode profile URL
 
 ---
